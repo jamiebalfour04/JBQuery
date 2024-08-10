@@ -1,0 +1,1 @@
+A little example of making a jQuery-esque library. This features tools like binding event listeners, iteration of indices and elements, styling elements, selecting elements that match a criteria and wrapping a shadow element within a function and more. This was originally going to become the replacement for the jQuery functions used on my website but that never happened.
